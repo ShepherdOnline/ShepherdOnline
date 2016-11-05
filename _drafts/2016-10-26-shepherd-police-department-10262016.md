@@ -7,9 +7,8 @@ author: Jon Morgan
 post_date: 2016-10-26 22:39:37
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/shepherd-police-department-10262016/
-published: true
+permalink: 'http://www.shepherdhistory.org?p=1438&preview=true&preview_id=1438'
+published: false
 wide_assets:
   - ""
 custom_sidebar:
