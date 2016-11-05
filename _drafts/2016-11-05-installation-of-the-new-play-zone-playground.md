@@ -13,4 +13,4 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-The Shepherd Journal is currently tracking the installation of the new "Play Zone" playground located between the Shepherd walking trail and the baseball diamonds. The playground
+The Shepherd Journal is currently tracking the installation of the new "Play Zone" playground located between the Shepherd walking trail and the baseball diamonds. The playground was paid for through donations from throughout the community, and it is currently being assembled by volunteers. Setup of the playground equipment will be completed today. The
