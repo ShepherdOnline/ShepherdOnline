@@ -15,4 +15,3 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-I was walking home from the softball/baseball
