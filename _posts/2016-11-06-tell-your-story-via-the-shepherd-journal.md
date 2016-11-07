@@ -22,4 +22,4 @@ categories:
 
 Basically, if you have something you want to share, I'll help you share it.
 
-You can share your story by clicking on the "Contact Us" button on the Shepherd Journal Facebook page or going to the "<a href="http://www.shepherdhistory.org/shepherdjournal/submit-your-story/">Share Your Story</a>" page on the Shepherd Journal page.
+You can submit your article, story, or event announcement by clicking on the "Contact Us" button on the Shepherd Journal Facebook page or going to the "<a href="http://www.shepherdhistory.org/shepherdjournal/submit-your-story/">Share Your Story</a>" page on the Shepherd Journal page.
