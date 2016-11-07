@@ -15,4 +15,4 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-The Shepherd Journal is accepting submissions of articles from its
+The Shepherd Journal is accepting submissions of articles from organizations, businesses, and residents in Shepherd. Submissions can be for upcoming events, announcements about ongoing projects, athletic competitions, or even just
