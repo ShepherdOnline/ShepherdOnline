@@ -1,8 +1,6 @@
 ---
 ID: 1563
-post_title: >
-  Announcing new improvements for the
-  Shepherd Journal
+post_title: Tell your story
 author: Jon Morgan
 post_date: 2016-11-06 22:06:48
 post_excerpt: ""
@@ -15,7 +13,7 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-The Shepherd Journal is accepting submissions of articles from organizations, businesses, and residents in Shepherd. Submissions can be for upcoming events, announcements about ongoing projects, athletic competitions, or even just general news about the community. I am also open to reviews or commentary about TV, books, or movies.
+<em>The Shepherd Journal</em> is accepting submissions of articles from organizations, businesses, and residents in Shepherd. Submissions can be for upcoming events, announcements about ongoing projects, athletic competitions, or even just general news about the community. I am also open to reviews or commentary about TV, books, or movies.
 
 Basically, if you have something you want to share, I'll help you share it.
 
