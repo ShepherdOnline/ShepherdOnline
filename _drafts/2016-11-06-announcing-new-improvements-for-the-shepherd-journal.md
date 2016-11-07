@@ -15,4 +15,4 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-The mission of The Shepherd Journal is to tell the story of
+The Shepherd Journal is accepting submissions of articles from its
