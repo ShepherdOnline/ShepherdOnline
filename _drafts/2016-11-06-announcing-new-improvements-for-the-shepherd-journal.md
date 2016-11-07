@@ -19,4 +19,4 @@ The Shepherd Journal is accepting submissions of articles from organizations, bu
 
 Basically, if you have something you want to share, I'll help you share it.
 
-You can share your story by
+You can share your story by clicking on the "Contact Us" button on the Shepherd Journal Facebook page or by going to http://www.shepherdhistory.org/shepherdjournal/submit-your-story/.
