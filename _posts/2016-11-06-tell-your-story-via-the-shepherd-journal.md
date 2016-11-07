@@ -12,11 +12,13 @@ wide_assets:
   - ""
 custom_sidebar:
   - none
+top_term:
+  - "48"
 tags: [ ]
 categories:
   - Community
 ---
-<em>The Shepherd Journal</em> is accepting submissions of articles from organizations, businesses, and residents in Shepherd. Submissions can be for upcoming events, announcements about ongoing projects, athletic competitions, or even just general news about the community. I am also open to reviews or commentary about TV, books, or movies.
+<em>The Shepherd Journal</em> is accepting submissions of articles from organizations, businesses, and residents in Shepherd. Stories can be about upcoming events, announcements about ongoing projects, athletic competitions, or even just general news about the community. I am also open to reviews or commentary about TV, books, or movies.
 
 Basically, if you have something you want to share, I'll help you share it.
 
