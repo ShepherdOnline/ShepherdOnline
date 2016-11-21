@@ -1,7 +1,8 @@
 ---
 ID: 1675
 post_title: >
-  https://www.facebook.com/shepherdjournal/posts/10154827174805921
+  Community Thanksgiving dinner times
+  announced
 author: Jon Morgan
 post_date: 2016-11-20 19:04:09
 post_excerpt: ""
