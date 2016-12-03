@@ -17,3 +17,8 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
+Via The Morning Sun
+
+<blockquote>Tis the season for...holiday parades! Check out photos from last night's celebration in Shepherd.</blockquote>
+
+<a href="http://media.themorningsun.com/2016/12/02/shepherd-christmas-parade-2016/#1">Read More</a>
