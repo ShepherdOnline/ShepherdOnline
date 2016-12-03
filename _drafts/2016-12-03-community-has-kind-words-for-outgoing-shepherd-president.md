@@ -17,3 +17,8 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
+Via The Morning Sun
+
+After 30 years of service — 21 as Shepherd’s village president— Lee Coughlin will retire at the end of this month, handing the reins over to Mike Degraw.
+
+http://www.themorningsun.com/general-news/20161201/community-has-kind-words-for-outgoing-shepherd-president
