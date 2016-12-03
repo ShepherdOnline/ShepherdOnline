@@ -2,8 +2,8 @@
 ID: 1770
 post_title: >
   Will Santa Claus be returning to his
-  workshop and visiting with kids any
-  other nights?
+  workshop and visiting with kids in
+  Shepherd between now and Christmas?
 author: Jon Morgan
 post_date: 2016-12-03 11:40:00
 post_excerpt: ""
@@ -15,6 +15,8 @@ wide_assets:
   - ""
 qa_question_status:
   - ""
+qa_view_count:
+  - "1"
 tags: [ ]
 categories: [ ]
 ---
