@@ -8,7 +8,7 @@ post_date: 2016-12-05 23:30:30
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdhistory.org/blog/1833/
+  http://www.shepherdhistory.org/blog/shstechteam/
 published: true
 title:
   - >
