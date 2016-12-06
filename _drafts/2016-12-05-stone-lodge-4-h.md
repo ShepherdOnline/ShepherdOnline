@@ -15,3 +15,4 @@ tags: [ ]
 categories:
   - Community
 ---
+https://docs.google.com/document/d/1lifPC2R_UCdkvSMNjWVM_YjTOEKj3miG3Z7pu8rjspM/edit?usp=sharing
