@@ -12,3 +12,4 @@ wide_assets:
 tags: [ ]
 categories: [ ]
 ---
+[aesop_collection collection="48" limit="10" columns="2" splash="off" order="default" loadmore="off"]
