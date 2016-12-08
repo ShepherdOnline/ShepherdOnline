@@ -2,13 +2,13 @@
 ID: 72
 post_title: Mid Michigan News Roundup
 author: ng23055
-post_date: 2016-12-07 23:43:57
+post_date: 2016-12-08 02:10:16
 post_excerpt: ""
 layout: chapter
 permalink: 'http://publish.shepherdhistory.org/publish/sd11262016/?post_type=chapter&p=72'
 published: false
 pb_show_title:
-  - 'on'
+  - "0"
 pb_export:
   - 'on'
 tags: [ ]
