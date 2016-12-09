@@ -1,17 +1,17 @@
 ---
-ID: 72
+ID: 1865
 post_title: Mid Michigan News Roundup
-author: ng23055
-post_date: 2016-12-08 02:11:04
+author: Jon Morgan
+post_date: 2016-12-08 22:56:59
 post_excerpt: ""
 layout: chapter
 permalink: >
-  http://publish.shepherdhistory.org/publish/sd11262016/chapter/mid-michigan-news-roundup/
+  http://www.shepherdhistory.org/blog/mid-michigan-news-roundup/
 published: true
 pb_show_title:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 pb_export:
-  - 'on'
+  - 'a:1:{i:0;s:2:"on";}'
 tags: [ ]
 categories: [ ]
 ---
