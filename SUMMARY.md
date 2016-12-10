@@ -3,6 +3,7 @@
 * [Cover](README.md)
 
 ## Friday, December 2016
+
 **Community**
 
 * [Shepherd Area Historical Society News](_posts/2016-12-08-sahsnews.md)
