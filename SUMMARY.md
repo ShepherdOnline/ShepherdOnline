@@ -2,7 +2,7 @@
 
 * [Cover](README.md)
 
-## Friday, December 2016
+* Friday, December 2016
 
 ### Community
 
