@@ -21,7 +21,6 @@ Here are some photos from last year's concert:
 
 *For more information, follow the **[event for the concert her*e](https://www.facebook.com/events/1805384953052521/)*.*
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.10153911159440921.1073741848.153140150920%26type%3D3&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 [Edit](https://docs.google.com/document/d/1nDbA3V_jMfWIfdVy4-evI1JiP5eK6LI7QJRprO8jAsg/edit?usp=sharing)
 
