@@ -11,6 +11,14 @@ Their event on Facebook said the following about the concert:
 
 Come and hear a potpouri of holiday music, performed by your friends, neighbors, and co-workers in the finest comunity entertainment tradition.
 
+Here are some photos from last year's concert:
+
+![image alt text]({{ site.url }}/public/cne2KuL7SrafOtbbJmZugw_img_0.jpg)
+
+![image alt text]({{ site.url }}/public/cne2KuL7SrafOtbbJmZugw_img_1.jpg)
+
+![image alt text]({{ site.url }}/public/cne2KuL7SrafOtbbJmZugw_img_2.jpg)
+
 *For more information, follow the **[event for the concert her*e](https://www.facebook.com/events/1805384953052521/)*.*
 
 [Edit](https://docs.google.com/document/d/1nDbA3V_jMfWIfdVy4-evI1JiP5eK6LI7QJRprO8jAsg/edit?usp=sharing)
