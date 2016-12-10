@@ -1,1 +1,4 @@
-# ShepherdOnline
+# The Shepherd Journal
+
+
+
