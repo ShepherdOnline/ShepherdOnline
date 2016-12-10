@@ -5,9 +5,8 @@ author: Jon Morgan
 post_date: 2016-12-03 18:56:33
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/test-title/
-published: true
+permalink: 'http://www.shepherdhistory.org?p=1796&preview=true&preview_id=1796'
+published: false
 wide_assets:
   - ""
 tags: [ ]
