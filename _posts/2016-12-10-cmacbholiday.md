@@ -22,6 +22,6 @@ Here are some photos from last year's concert:
 
 <img class="alignnone size-medium wp-image-1904" src="http://www.shepherdhistory.org/wp-content/uploads/2016/12/12363210_10153911159975921_3171048118821891899_o-336x450.jpg" alt="" width="336" height="450" />
 
-For more information, follow the [event for the concert her*e](https://www.facebook.com/events/1805384953052521/).
+For more information, follow the [event for the concert here](https://www.facebook.com/events/1805384953052521/).
 
 [Edit](https://docs.google.com/document/d/1nDbA3V_jMfWIfdVy4-evI1JiP5eK6LI7QJRprO8jAsg/edit?usp=sharing)
