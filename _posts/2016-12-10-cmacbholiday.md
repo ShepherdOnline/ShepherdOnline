@@ -8,7 +8,7 @@ post_date: 2016-12-10 15:44:16
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdhistory.org/blog/1894/
+  http://www.shepherdhistory.org/blog/cmacbholiday/
 published: true
 title:
   - >
