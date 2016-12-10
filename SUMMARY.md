@@ -10,4 +10,9 @@
 ## Schools
 
 * [SHS Technology Club](_posts/2016-12-05-shstechteam.md)
+* [Temples and Tombs Video](temples-and-tombs-video.md)
 
+## Mid Michigan
+
+* [Mid Michigan News Roundup 11/28/2016](mid-michigan-news-roundup-11282016.md)
+* [](mid-michigan-news-roundup.md)
