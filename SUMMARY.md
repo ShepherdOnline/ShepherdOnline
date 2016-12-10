@@ -4,6 +4,7 @@
 ## Saturday, December 10, 2016
 
 * [Santa Claus to Return to the Village of Shepherd December 23](_posts/2016-12-10-santa-claus-to-return-to-the-village-of-shepherd-december-23.md)
+* 
 
 ## Friday, December 9, 2016
 
