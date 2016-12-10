@@ -1,3 +1,12 @@
+---
+ID: 1887
+post_title: >
+  Shepherd Journal
+layout: post
+published: true
+wide_assets:
+  - ""
+---
 
 
 * [Cover](README.md)
