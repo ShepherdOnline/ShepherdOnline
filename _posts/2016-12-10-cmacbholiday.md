@@ -41,6 +41,7 @@ ase_map_component_start_point:
 tags: [ ]
 categories:
   - Community
+  - Organizations
 ---
 The Central Michigan Area Concert Band will be performing holiday themed music on Sunday, December 11, 2016 inside the Shepherd High School Auditorium at 3 p.m.
 
