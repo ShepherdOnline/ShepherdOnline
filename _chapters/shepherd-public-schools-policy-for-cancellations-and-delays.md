@@ -6,7 +6,7 @@ post_title: >
 author: ng23055
 post_date: 2016-12-07 23:43:05
 post_excerpt: ""
-layout: chapter
+layout: post
 permalink: >
   http://publish.shepherdhistory.org/publish/sd11262016/chapter/shepherd-public-schools-policy-for-cancellations-and-delays/
 published: true
