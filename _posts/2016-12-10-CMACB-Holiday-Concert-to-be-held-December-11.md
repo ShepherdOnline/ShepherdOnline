@@ -13,11 +13,11 @@ Come and hear a potpouri of holiday music, performed by your friends, neighbors,
 
 Here are some photos from last year's concert:
 
-![image alt text]({{ site.url }}/public/cne2KuL7SrafOtbbJmZugw_img_0.jpg)
+![](/assets/12363050_10153911160030921_4797266785285442002_o.jpg)
 
-![image alt text]({{ site.url }}/public/cne2KuL7SrafOtbbJmZugw_img_1.jpg)
+![](/assets/12339408_10153911160035921_3454303418014457471_o.jpg)
 
-![image alt text]({{ site.url }}/public/cne2KuL7SrafOtbbJmZugw_img_2.jpg)
+![](/assets/12363210_10153911159975921_3171048118821891899_o.jpg)
 
 *For more information, follow the **[event for the concert her*e](https://www.facebook.com/events/1805384953052521/)*.*
 
