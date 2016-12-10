@@ -2,7 +2,6 @@
 title: CMACB Holiday Concert to be held December 11
 layout: post
 author: shepherdonlinehq
-source-id: 1nDbA3V_jMfWIfdVy4-evI1JiP5eK6LI7QJRprO8jAsg
 published: true
 ---
 The Central Michigan Area Concert Band will be performing holiday themed music on Sunday, December 11, 2016 inside the Shepherd High School Auditorium at 3 p.m.
