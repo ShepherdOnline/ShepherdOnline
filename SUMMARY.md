@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Cover](README.md)
 
 ## Community
 
