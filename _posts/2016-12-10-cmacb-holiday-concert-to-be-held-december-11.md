@@ -34,6 +34,8 @@ featured_media:
     </table>";s:4:"meta";s:0:"";}}}
 ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
+top_term:
+  - "48"
 tags: [ ]
 categories:
   - Community
