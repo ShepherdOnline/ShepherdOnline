@@ -47,7 +47,7 @@ The Central Michigan Area Concert Band will be performing holiday themed music o
 
 Their event on Facebook said the following about the concert:
 
-Come and hear a potpouri of holiday music, performed by your friends, neighbors, and co-workers in the finest comunity entertainment tradition.
+<blockquote>Come and hear a potpouri of holiday music, performed by your friends, neighbors, and co-workers in the finest comunity entertainment tradition.</blockquote>
 
 Here are some photos from last year's concert:
 
@@ -57,7 +57,8 @@ Here are some photos from last year's concert:
 <img src="http://www.shepherdhistory.org/wp-content/uploads/2016/12/12363210_10153911159975921_3171048118821891899_o-336x450.jpg" alt="" width="336" height="450" class="alignnone size-medium wp-image-1904" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.10153911159440921.1073741848.153140150920%26type%3D3&amp;width=500" width="500" height="597" frameborder="0" scrolling="no"></iframe>
+<em>
 
-*For more information, follow the **[event for the concert her*e](https://www.facebook.com/events/1805384953052521/)*.*
+For more information, follow the [event for the concert her*e](https://www.facebook.com/events/1805384953052521/).</em>
 
 [Edit](https://docs.google.com/document/d/1nDbA3V_jMfWIfdVy4-evI1JiP5eK6LI7QJRprO8jAsg/edit?usp=sharing)
