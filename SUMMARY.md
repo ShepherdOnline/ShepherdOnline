@@ -4,7 +4,7 @@
 ## Saturday, December 10, 2016
 
 * [Santa Claus to Return to the Village of Shepherd December 23](_posts/2016-12-10-santa-claus-to-return-to-the-village-of-shepherd-december-23.md)
-* [CMACB Holiday Concert to be Held December 11](_posts/2016-12-10-CMACB-Holiday-Concert-to-be-held-December-11.md)
+[CMACB Holiday Concert to be Held December 11](_posts/2016-12-10-cmacbholiday.md)
 
 ## Friday, December 9, 2016
 
