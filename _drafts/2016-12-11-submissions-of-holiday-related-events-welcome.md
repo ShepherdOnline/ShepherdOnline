@@ -7,7 +7,6 @@ author: Jon Morgan
 post_date: 2016-12-11 12:46:26
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=1924&preview=true&preview_id=1924'
 published: false
 title:
   - Christmas Service Information
