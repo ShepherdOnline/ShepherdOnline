@@ -1,6 +1,6 @@
 ---
 ID: 1933
-post_title: 'Question of the Week:'
+post_title: 'Question of the Day:'
 author: Jon Morgan
 post_date: 2016-12-11 13:47:05
 post_excerpt: ""
