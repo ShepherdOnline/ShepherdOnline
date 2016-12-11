@@ -10,12 +10,8 @@ layout: post
 permalink: >
   http://www.shepherdhistory.org/blog/holidayeventssub/
 published: true
-title:
-  - Christmas Service Information
 wide_assets:
   - ""
-custom_sidebar:
-  - none
 top_term:
   - "48"
 medium_post:
