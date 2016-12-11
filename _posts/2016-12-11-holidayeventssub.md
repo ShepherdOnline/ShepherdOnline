@@ -4,11 +4,12 @@ post_title: >
   Submissions of Holiday Related Events
   Welcome
 author: Jon Morgan
-post_date: 2016-12-11 12:46:26
+post_date: 2016-12-11 12:57:25
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=1924&preview=true&preview_id=1924'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/holidayeventssub/
+published: true
 title:
   - Christmas Service Information
 wide_assets:
