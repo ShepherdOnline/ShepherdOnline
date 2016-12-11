@@ -7,8 +7,9 @@ author: Jon Morgan
 post_date: 2016-12-10 11:26:52
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=1887&preview=true&preview_id=1887'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/santa-claus-to-return-to-the-village-of-shepherd-december-23/
+published: true
 wide_assets:
   - ""
 medium_post:
