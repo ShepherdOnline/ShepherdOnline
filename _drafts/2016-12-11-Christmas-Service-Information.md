@@ -1,7 +1,6 @@
 ---
 title: Christmas Event Information
 layout: post
-post_type: doc
 author: 32bpwr3
 published: false
 ---
