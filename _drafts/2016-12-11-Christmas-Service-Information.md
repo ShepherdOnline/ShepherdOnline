@@ -1,5 +1,5 @@
 ---
-title: Christmas Service Information
+title: Christmas Event Information
 layout: post
 author: 32bpwr3
 source-id: 1JbGNwFiFVaST_VAn-ohPCMYsvJi1N245NJMg4yPano0
