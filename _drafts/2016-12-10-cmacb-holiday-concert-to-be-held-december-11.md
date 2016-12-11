@@ -7,15 +7,12 @@ author: Jon Morgan
 post_date: 2016-12-10 17:57:06
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/cmacb-holiday-concert-to-be-held-december-11/
-published: true
+permalink: 'http://www.shepherdhistory.org?p=1911&preview=true&preview_id=1911'
+published: false
 wide_assets:
   - ""
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:75:"https://cdn-images-1.medium.com/fit/c/200/200/1*SqJTY-3vzTSKsiqc5-cV_A.jpeg";s:10:"author_url";s:28:"https://medium.com/@morga2ja";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"76fa3e90f30e";s:21:"follower_notification";s:2:"no";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"f45ad4d6ec92";s:6:"status";s:5:"draft";s:3:"url";s:41:"https://medium.com/@morga2ja/76fa3e90f30e";}'
-custom_sidebar:
-  - none
 featured_media:
   - |
     a:3:{s:4:"type";s:5:"image";s:10:"attachment";i:1896;s:15:"attachment_data";a:31:{s:2:"id";i:1896;s:5:"title";s:48:"12363050_10153911160030921_4797266785285442002_o";s:8:"filename";s:52:"12363050_10153911160030921_4797266785285442002_o.jpg";s:3:"url";s:110:"http://www.shepherdhistory.org/wp-content/uploads/2016/12/12363050_10153911160030921_4797266785285442002_o.jpg";s:4:"link";s:80:"http://www.shepherdhistory.org/12363050_10153911160030921_4797266785285442002_o/";s:3:"alt";s:0:"";s:6:"author";s:1:"1";s:11:"description";s:0:"";s:7:"caption";s:0:"";s:4:"name";s:48:"12363050_10153911160030921_4797266785285442002_o";s:6:"status";s:7:"inherit";s:10:"uploadedTo";i:0;s:4:"date";i:1481402911000;s:8:"modified";i:1481402911000;s:9:"menuOrder";i:0;s:4:"mime";s:10:"image/jpeg";s:4:"type";s:5:"image";s:7:"subtype";s:4:"jpeg";s:4:"icon";s:67:"http://www.shepherdhistory.org/wp-includes/images/media/default.png";s:13:"dateFormatted";s:17:"December 10, 2016";s:6:"nonces";a:3:{s:6:"update";s:10:"88de59673e";s:6:"delete";s:10:"bc8e6a3363";s:4:"edit";s:10:"f046b439ff";}s:8:"editLink";s:70:"http://www.shepherdhistory.org/wp-admin/post.php?post=1896&action=edit";s:4:"meta";b:0;s:10:"authorName";s:10:"Jon Morgan";s:15:"filesizeInBytes";i:74679;s:21:"filesizeHumanReadable";s:5:"73 KB";s:6:"height";i:972;s:5:"width";i:726;s:11:"orientation";s:8:"portrait";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:6:"height";i:140;s:5:"width";i:140;s:3:"url";s:118:"http://www.shepherdhistory.org/wp-content/uploads/2016/12/12363050_10153911160030921_4797266785285442002_o-140x140.jpg";s:11:"orientation";s:9:"landscape";}s:6:"medium";a:4:{s:6:"height";i:450;s:5:"width";i:336;s:3:"url";s:118:"http://www.shepherdhistory.org/wp-content/uploads/2016/12/12363050_10153911160030921_4797266785285442002_o-336x450.jpg";s:11:"orientation";s:8:"portrait";}s:4:"full";a:4:{s:3:"url";s:110:"http://www.shepherdhistory.org/wp-content/uploads/2016/12/12363050_10153911160030921_4797266785285442002_o.jpg";s:6:"height";i:972;s:5:"width";i:726;s:11:"orientation";s:8:"portrait";}}s:6:"compat";a:2:{s:4:"item";s:1723:"<input type="hidden" name="attachments[1896][menu_order]" value="0" /><p class="media-types media-types-required-info">Required fields are marked <span class="required">*</span></p>
