@@ -1,6 +1,8 @@
 ---
 ID: 1924
-post_title: ""
+post_title: >
+  Submissions of Holiday Related Events
+  Welcome
 author: Jon Morgan
 post_date: 2016-12-11 12:46:26
 post_excerpt: ""
