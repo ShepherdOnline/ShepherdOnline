@@ -1,6 +1,10 @@
 
 * [Cover](README.md)
 
+## Sunday, December 11, 2016
+
+* [The Shepherd Journal Seeks information about upcoming Christmas related Events](_posts/2016-12-11-holidayeventssub.md)
+
 ## Saturday, December 10, 2016
 
 * [Santa Claus to Return to the Village of Shepherd December 23](_posts/2016-12-10-santa-claus-to-return-to-the-village-of-shepherd-december-23.md)
