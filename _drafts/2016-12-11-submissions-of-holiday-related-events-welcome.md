@@ -11,6 +11,12 @@ permalink: 'http://www.shepherdhistory.org?p=1924&preview=true&preview_id=1924'
 published: false
 title:
   - Christmas Service Information
+wide_assets:
+  - ""
+custom_sidebar:
+  - none
+top_term:
+  - "48"
 tags: [ ]
 categories:
   - Community
