@@ -1,6 +1,6 @@
 ---
 ID: 1933
-post_title: 'Question of the Day:'
+post_title: 'Question of the Day: What do you like the most about the Winter Season?'
 author: Jon Morgan
 post_date: 2016-12-11 13:47:05
 post_excerpt: ""
