@@ -1,14 +1,15 @@
 ---
-ID: 1856
+ID: 134
 post_title: Shepherd Area Historical Society
-author: Jon Morgan
-post_date: 2016-12-07 21:25:27
+author: ng23055
+post_date: 2016-12-11 18:27:02
 post_excerpt: ""
 layout: page
-permalink: 'http://www.shepherdhistory.org?page_id=1856&preview_id=1856'
+permalink: >
+  http://publish.shepherdhistory.org/publish/shepherdjournal/?page_id=134
 published: false
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 tags: [ ]
 categories: [ ]
 ---

@@ -1,17 +1,17 @@
 ---
-ID: 1767
+ID: 140
 post_title: Event has been successfully submitted
-author: Jon Morgan
-post_date: 2016-12-02 23:25:53
+author: ng23055
+post_date: 2016-12-11 18:27:02
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdhistory.org/event-has-been-successfully-submitted/
+  http://publish.shepherdhistory.org/publish/shepherdjournal/event-has-been-successfully-submitted/
 published: true
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 custom_sidebar:
-  - none
+  - 'a:1:{i:0;s:4:"none";}'
 tags: [ ]
 categories: [ ]
 ---

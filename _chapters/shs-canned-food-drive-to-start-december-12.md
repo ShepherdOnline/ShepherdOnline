@@ -1,19 +1,19 @@
 ---
-ID: 70
+ID: 18
 post_title: >
   SHS Canned Food Drive to start December
   12
 author: ng23055
-post_date: 2016-12-08 02:11:09
+post_date: 2016-12-11 18:26:57
 post_excerpt: ""
 layout: chapter
 permalink: >
-  http://publish.shepherdhistory.org/publish/sd11262016/chapter/shs-canned-food-drive-to-start-december-12/
+  http://publish.shepherdhistory.org/publish/shepherdjournal/chapter/shs-canned-food-drive-to-start-december-12/
 published: true
 pb_show_title:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 pb_export:
-  - 'on'
+  - 'a:1:{i:0;s:2:"on";}'
 tags: [ ]
 categories: [ ]
 ---

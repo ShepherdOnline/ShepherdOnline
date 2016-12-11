@@ -1,17 +1,17 @@
 ---
-ID: 1807
+ID: 142
 post_title: News Ideas
-author: Jon Morgan
-post_date: 2016-12-03 20:20:25
+author: ng23055
+post_date: 2016-12-11 18:27:02
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdhistory.org/news-ideas/
+  http://publish.shepherdhistory.org/publish/shepherdjournal/news-ideas/
 published: true
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 custom_sidebar:
-  - none
+  - 'a:1:{i:0;s:4:"none";}'
 tags: [ ]
 categories: [ ]
 ---
