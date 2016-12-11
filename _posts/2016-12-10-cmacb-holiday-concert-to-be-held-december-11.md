@@ -7,8 +7,9 @@ author: Jon Morgan
 post_date: 2016-12-10 17:57:06
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=1911&preview=true&preview_id=1911'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/cmacb-holiday-concert-to-be-held-december-11/
+published: true
 wide_assets:
   - ""
 medium_post:
