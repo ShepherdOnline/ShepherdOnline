@@ -3,8 +3,8 @@
 
 ## Sunday, December 11, 2016
 
-* [The Shepherd Journal Seeks information about upcoming Christmas related Events](_posts/2016-12-11-holidayeventssub.md)
 * [CMACB Puts Audience into Holiday Spirit During Concert](_posts/2016-12-11-central-michigan-area-concert-band-puts-audience-into-holiday-spirit-during-concert.md)
+* [How to Submit Information about your Holiday related event to the Shepherd Journal](_posts/2016-12-11-submissions-of-holiday-related-events-welcome.md)
 
 ## Saturday, December 10, 2016
 
