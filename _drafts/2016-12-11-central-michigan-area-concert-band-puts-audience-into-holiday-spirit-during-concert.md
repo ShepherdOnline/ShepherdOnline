@@ -16,3 +16,4 @@ tags: [ ]
 categories:
   - Community
 ---
+The Central Michigan Area Concert Band filled the SHS Auditorium with warmth and Christmas cheer this afternoon during their annual concert.
