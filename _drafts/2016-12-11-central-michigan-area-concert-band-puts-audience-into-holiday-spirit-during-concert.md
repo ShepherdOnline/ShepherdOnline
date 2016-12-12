@@ -20,4 +20,4 @@ The Central Michigan Area Concert Band filled the SHS Auditorium with warmth and
 
 The audience was invited to participate by singing during the band's performance of "It's Christmas!"
 
-Here is a collection of perfo
+Here is a collection of the songs performed by the band during the concert.
