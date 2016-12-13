@@ -15,3 +15,4 @@ tags: [ ]
 categories:
   - Community
 ---
+The public is invited to attend a community supper being held at the Shepherd United Methodist Church from 5 - 6:30 p.m. on Wednesday, December 14. The supper is free to everyone and it will be held inside the SUMC Fellowship Hall. Attendees are encouraged to brin
