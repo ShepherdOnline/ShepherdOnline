@@ -15,4 +15,4 @@ tags: [ ]
 categories:
   - Community
 ---
-The public is invited to attend a community supper being held at the Shepherd United Methodist Church from 5 - 6:30 p.m. on Wednesday, December 14. The supper is free to everyone and it will be held inside the SUMC Fellowship Hall. Donations of canned or non-perishable items will be collected on behalf of the St. Vincent de Paul Food Pantry.
+The public is invited to attend a community supper being held at the <a href="http://www.shepherdhistory.org/business-directory/name/shepherd-united-methodist-church/">Shepherd United Methodist Church</a> from 5 - 6:30 p.m. on Wednesday, December 14. The supper is free to everyone and it will be held inside the SUMC Fellowship Hall. Donations of canned or non-perishable items will be collected on behalf of the St. Vincent de Paul Food Pantry.
