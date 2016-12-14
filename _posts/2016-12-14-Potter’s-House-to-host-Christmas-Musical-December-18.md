@@ -2,7 +2,7 @@
 title: Potter’s House to host Christmas Musical December 18
 layout: post
 author: shepherdonlinehq
-permalink: /potter’s-house-to-host-christmas-musical-december-18/
+permalink: 
 source-id: 1__ovymddOp5As_dNVvYXWSUd_ukOjAHpt9mES05X6tc
 published: true
 ---
