@@ -1,40 +1,39 @@
 ---
 ID: 62
 post_title: '&#8216;Reminder to Parents attending Athletic Events'
-author: ng23055
-post_date: 2016-12-11 18:26:59
+author: Jon Morgan
+post_date: 2016-12-19 17:58:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://publish.shepherdhistory.org/publish/shepherdjournal/?p=62
+permalink: 'http://www.shepherdhistory.org/shepherdjournal?p=62&preview=true&preview_id=62'
 published: false
 wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 custom_sidebar:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 top_term:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 title:
-  - 'a:1:{i:0;s:45:"Reminder To Parents Attending Athletic Events";}'
+  - 'a:1:{i:0;s:63:"a:1:{i:0;s:45:"Reminder To Parents Attending Athletic Events";}";}'
 date:
-  - 'a:1:{i:0;s:21:"2016-09-18 00:00:00 Z";}'
+  - 'a:1:{i:0;s:39:"a:1:{i:0;s:21:"2016-09-18 00:00:00 Z";}";}'
 categories:
-  - Uncategorized
+  - Community
 1:
-  - 'a:1:{i:0;s:9:"Community";}'
+  - 'a:1:{i:0;s:26:"a:1:{i:0;s:9:"Community";}";}'
 2:
-  - 'a:1:{i:0;s:7:"Schools";}'
+  - 'a:1:{i:0;s:24:"a:1:{i:0;s:7:"Schools";}";}'
 3:
-  - 'a:1:{i:0;s:6:"Sports";}'
+  - 'a:1:{i:0;s:23:"a:1:{i:0;s:6:"Sports";}";}'
 4:
   - |
-    a:1:{i:0;s:1:"'";}
+    a:1:{i:0;s:18:"a:1:{i:0;s:1:"'";}";}
 5:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 6:
-  - 'a:1:{i:0;s:4:"none";}'
+  - 'a:1:{i:0;s:21:"a:1:{i:0;s:4:"none";}";}'
 7:
-  - 'a:1:{i:0;s:2:"48";}'
+  - 'a:1:{i:0;s:19:"a:1:{i:0;s:2:"48";}";}'
 tags: [ ]
 ---
 <em>From <a href="https://www.facebook.com/shepherdfootball/?fref=nf">Shepherd Blue Jay Football</a>:</em>
