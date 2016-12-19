@@ -7,9 +7,8 @@ author: Jon Morgan
 post_date: 2016-12-19 17:58:43
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherdjournal/2016/12/19/potters-house-to-host-christmas-musical-december-18/
-published: true
+permalink: 'http://www.shepherdhistory.org/shepherdjournal?p=395&preview=true&preview_id=395'
+published: false
 wide_assets:
   - 'a:1:{i:0;s:0:"";}'
 custom_sidebar:
