@@ -1,23 +1,22 @@
 ---
-ID: 84
+ID: 321
 post_title: Mid Michigan News Roundup 08/18/2016
-author: ng23055
-post_date: 2016-12-11 18:27:00
+author: Jon Morgan
+post_date: 2016-12-19 17:58:28
 post_excerpt: ""
 layout: post
-permalink: >
-  http://publish.shepherdhistory.org/publish/shepherdjournal/?p=84
+permalink: 'http://www.shepherdhistory.org/shepherdjournal?p=321&preview=true&preview_id=321'
 published: false
 title:
-  - 'a:1:{i:0;s:34:"Mid Michigan News Roundup 08182016";}'
+  - 'a:1:{i:0;s:52:"a:1:{i:0;s:34:"Mid Michigan News Roundup 08182016";}";}'
 date:
-  - 'a:1:{i:0;s:21:"2016-09-21 00:00:00 Z";}'
+  - 'a:1:{i:0;s:39:"a:1:{i:0;s:21:"2016-09-21 00:00:00 Z";}";}'
 categories:
-  - Uncategorized
+  - Community
 1:
-  - 'a:1:{i:0;s:13:"Uncategorized";}'
+  - 'a:1:{i:0;s:31:"a:1:{i:0;s:13:"Uncategorized";}";}'
 wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 tags: [ ]
 ---
 #Mid Michigan News Roundup 08/18/2016

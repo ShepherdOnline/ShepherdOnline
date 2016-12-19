@@ -1,30 +1,29 @@
 ---
-ID: 24
+ID: 332
 post_title: '&#8216;Registration open for Shepherd Youth Cheer'
-author: ng23055
-post_date: 2016-12-11 18:26:58
+author: Jon Morgan
+post_date: 2016-12-19 17:58:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://publish.shepherdhistory.org/publish/shepherdjournal/?p=24
+permalink: 'http://www.shepherdhistory.org/shepherdjournal?p=332&preview=true&preview_id=332'
 published: false
 post_views_count:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 title:
-  - 'a:1:{i:0;s:17:"120 Revision V1 4";}'
+  - 'a:1:{i:0;s:35:"a:1:{i:0;s:17:"120 Revision V1 4";}";}'
 date:
-  - 'a:1:{i:0;s:21:"2016-09-17 00:00:00 Z";}'
+  - 'a:1:{i:0;s:39:"a:1:{i:0;s:21:"2016-09-17 00:00:00 Z";}";}'
 categories:
-  - Uncategorized
+  - Community
 1:
-  - 'a:1:{i:0;s:13:"Uncategorized";}'
+  - 'a:1:{i:0;s:31:"a:1:{i:0;s:13:"Uncategorized";}";}'
 2:
   - |
-    a:1:{i:0;s:1:"'";}
+    a:1:{i:0;s:18:"a:1:{i:0;s:1:"'";}";}
 3:
-  - 'a:1:{i:0;s:44:"s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"4";}";}";";}'
+  - 'a:1:{i:0;s:62:"a:1:{i:0;s:44:"s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"4";}";}";";}";}'
 wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 tags: [ ]
 ---
 #Registration open for Shepherd Youth Cheer
