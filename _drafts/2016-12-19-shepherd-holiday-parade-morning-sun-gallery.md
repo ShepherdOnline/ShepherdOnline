@@ -7,9 +7,8 @@ author: Jon Morgan
 post_date: 2016-12-19 17:58:42
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherdjournal/2016/12/19/shepherd-holiday-parade-morning-sun-gallery/
-published: true
+permalink: 'http://www.shepherdhistory.org/shepherdjournal?p=387&preview=true&preview_id=387'
+published: false
 wide_assets:
   - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 medium_post:
