@@ -8,9 +8,8 @@ author: Jon Morgan
 post_date: 2016-12-19 17:58:40
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherdjournal/2016/12/19/central-michigan-area-concert-band-puts-audience-into-holiday-spirit-during-concert/
-published: true
+permalink: 'http://www.shepherdhistory.org/shepherdjournal?p=377&preview=true&preview_id=377'
+published: false
 wide_assets:
   - 'a:1:{i:0;s:0:"";}'
 custom_sidebar:
