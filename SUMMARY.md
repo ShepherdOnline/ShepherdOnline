@@ -3,7 +3,13 @@
 
 ## Schools
 
-* [Shepherd Middle School](ShepherdMiddleSchool/README.md)
+###Shepherd Middle School
+
+* [Shepherd Middle School Summary](ShepherdMiddleSchool/SMS-12192016.md)
+
+###Shepherd High School
+
+
 
 ## Sunday, December 11, 2016
 

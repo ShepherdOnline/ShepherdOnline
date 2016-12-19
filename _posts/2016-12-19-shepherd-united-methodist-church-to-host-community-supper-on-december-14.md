@@ -1,19 +1,19 @@
 ---
-ID: 1988
+ID: 393
 post_title: >
   Shepherd United Methodist Church to host
   Community Supper on December 14
 author: Jon Morgan
-post_date: 2016-12-12 23:46:34
+post_date: 2016-12-19 17:58:43
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdhistory.org/blog/shepherd-united-methodist-church-to-host-community-supper-on-december-14/
+  http://www.shepherdhistory.org/shepherdjournal/2016/12/19/shepherd-united-methodist-church-to-host-community-supper-on-december-14/
 published: true
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 custom_sidebar:
-  - none
+  - 'a:1:{i:0;s:4:"none";}'
 tags: [ ]
 categories:
   - Community

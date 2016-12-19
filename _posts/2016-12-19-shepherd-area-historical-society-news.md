@@ -1,31 +1,30 @@
 ---
-ID: 1869
+ID: 374
 post_title: Shepherd Area Historical Society News
 author: Jon Morgan
-post_date: 2016-12-08 22:57:07
+post_date: 2016-12-19 17:58:40
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdhistory.org/blog/sahsnews/
+  http://www.shepherdhistory.org/shepherdjournal/2016/12/19/shepherd-area-historical-society-news/
 published: true
 title:
-  - 'a:1:{i:0;s:26:"a:1:{i:0;s:9:"SAHS_memo";}";}'
+  - 'a:1:{i:0;s:44:"a:1:{i:0;s:26:"a:1:{i:0;s:9:"SAHS_memo";}";}";}'
 source-id:
-  - 'a:1:{i:0;s:62:"a:1:{i:0;s:44:"1hpn8jriuNEC9-UyOCBi_RDwZ3JvKjesx00Ff9N_qhys";}";}'
+  - 'a:1:{i:0;s:80:"a:1:{i:0;s:62:"a:1:{i:0;s:44:"1hpn8jriuNEC9-UyOCBi_RDwZ3JvKjesx00Ff9N_qhys";}";}";}'
 wide_assets:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+  - 'a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}'
 custom_sidebar:
-  - 'a:1:{i:0;s:4:"none";}'
+  - 'a:1:{i:0;s:21:"a:1:{i:0;s:4:"none";}";}'
 top_term:
-  - 'a:1:{i:0;s:3:"114";}'
+  - 'a:1:{i:0;s:20:"a:1:{i:0;s:3:"114";}";}'
 medium_post:
-  - 'a:1:{i:0;s:508:"a:1:{i:0;s:489:"O:11:"Medium_Post":11:{s:16:"author_image_url";s:75:"https://cdn-images-1.medium.com/fit/c/200/200/1*SqJTY-3vzTSKsiqc5-cV_A.jpeg";s:10:"author_url";s:28:"https://medium.com/@morga2ja";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"e674c99ddb89";s:21:"follower_notification";s:2:"no";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"f45ad4d6ec92";s:6:"status";s:5:"draft";s:3:"url";s:41:"https://medium.com/@morga2ja/e674c99ddb89";}";}";}'
+  - 'a:1:{i:0;s:527:"a:1:{i:0;s:508:"a:1:{i:0;s:489:"O:11:"Medium_Post":11:{s:16:"author_image_url";s:75:"https://cdn-images-1.medium.com/fit/c/200/200/1*SqJTY-3vzTSKsiqc5-cV_A.jpeg";s:10:"author_url";s:28:"https://medium.com/@morga2ja";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"e674c99ddb89";s:21:"follower_notification";s:2:"no";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"f45ad4d6ec92";s:6:"status";s:5:"draft";s:3:"url";s:41:"https://medium.com/@morga2ja/e674c99ddb89";}";}";}";}'
 ase_map_component_start_point:
-  - 'a:1:{i:0;s:87:"a:1:{i:0;s:69:"a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}";}";}'
+  - 'a:1:{i:0;s:105:"a:1:{i:0;s:87:"a:1:{i:0;s:69:"a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}";}";}";}'
 tags: [ ]
 categories:
   - Community
-  - Shepherd Area Historical Society
 ---
 Big changes have taken place this past fall as The Little Red Schoolhouse has had all of the windows and doors replaced and the outside of the building has been painted.  The building is ready for tours. Over the next year there will be additional improvements to the inside and the display of artifacts.
 

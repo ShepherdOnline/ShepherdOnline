@@ -1,25 +1,24 @@
 ---
-ID: 1994
+ID: 395
 post_title: >
   Potter’s House to host Christmas
   Musical December 18
 author: Jon Morgan
-post_date: 2016-12-13 21:37:30
+post_date: 2016-12-19 17:58:43
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdhistory.org/blog/potters-house-to-host-christmas-musical-december-18/
+  http://www.shepherdhistory.org/shepherdjournal/2016/12/19/potters-house-to-host-christmas-musical-december-18/
 published: true
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 custom_sidebar:
-  - none
+  - 'a:1:{i:0;s:4:"none";}'
 top_term:
-  - "48"
+  - 'a:1:{i:0;s:2:"48";}'
 tags: [ ]
 categories:
   - Community
-  - Mid Michigan News
 ---
 The Potter's House, 5346 E. Deerfield Road, Mt. Pleasant, will present the Christmas Musical "Lift Him Up" on Sunday, December 18. Performances will be at 9:00 and 11:00 AM. All are welcome and admission is free. Come experience the joy of the Christmas season through this special production.
 
