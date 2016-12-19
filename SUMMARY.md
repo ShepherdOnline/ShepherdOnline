@@ -1,6 +1,10 @@
 
 * [Cover](README.md)
 
+## Schools
+
+* [Shepherd Middle School](ShepherdMiddleSchool/README.md)
+
 ## Sunday, December 11, 2016
 
 * [CMACB Puts Audience into Holiday Spirit During Concert](_posts/2016-12-11-central-michigan-area-concert-band-puts-audience-into-holiday-spirit-during-concert.md)
