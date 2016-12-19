@@ -5,9 +5,8 @@ author: Jon Morgan
 post_date: 2016-12-19 17:58:40
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherdjournal/2016/12/19/shepherd-area-historical-society-news/
-published: true
+permalink: 'http://www.shepherdhistory.org/shepherdjournal?p=374&preview=true&preview_id=374'
+published: false
 title:
   - 'a:1:{i:0;s:44:"a:1:{i:0;s:26:"a:1:{i:0;s:9:"SAHS_memo";}";}";}'
 source-id:
