@@ -1,0 +1,1 @@
+* [Basketball Clinics & Traveling Team Update](ShepherdMiddleSchool/SMS-12192016.md)
