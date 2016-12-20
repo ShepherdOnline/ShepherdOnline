@@ -34,7 +34,9 @@ top_term:
   - "48"
 tags: [ ]
 categories:
+  - Business
   - Community
+  - Organizations
 ---
 Here are photos from this year's Shepherd Chamber of Commerce Holiday party.
 
