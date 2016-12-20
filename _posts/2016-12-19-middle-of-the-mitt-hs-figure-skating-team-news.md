@@ -43,4 +43,4 @@ The next competition for the teams will take place on January 21, 2017 at 1:00 p
 
 <img class="alignnone size-medium wp-image-2194" src="http://www.shepherdhistory.org/wp-content/uploads/2016/12/IMG_2687-336x252.jpg" alt="" width="336" height="252" />
 
-<img class="alignnone size-medium wp-image-418" src="http://www.shepherdhistory.org/shepherdjournal/wp-content/uploads/sites/10/2016/12/IMG_2703-336x252.jpg" alt="" width="336" height="252" />
+<img class="alignnone size-medium wp-image-2196" src="http://www.shepherdhistory.org/wp-content/uploads/2016/12/IMG_2703-336x252.jpg" alt="" width="336" height="252" />
