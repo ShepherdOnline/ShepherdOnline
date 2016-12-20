@@ -4,7 +4,7 @@ post_title: >
   Middle of the Mitt HS Figure Skating
   Team News
 author: Jon Morgan
-post_date: 2016-12-19 19:09:01
+post_date: 2016-12-19 19:20:56
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=2159&preview=true&preview_id=2159'
