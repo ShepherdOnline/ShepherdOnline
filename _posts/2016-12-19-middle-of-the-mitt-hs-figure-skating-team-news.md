@@ -29,14 +29,14 @@ featured_media:
 custom_sidebar:
   - none
 top_term:
-  - "31"
+  - "48"
 wide_assets:
   - ""
 tags: [ ]
 categories:
   - Community
   - Education
-  - Organizations
+  - News
 ---
 The Middle of the Mitt High School Figure Skating Team had its first District competition of the season on Saturday in Kalamazoo. The team, which consists of figure skaters from Shepherd, Mt. Pleasant, Gladwin, Big Rapids &amp;amp; Sacred Heart, is broken down into three smaller teams (A, B &amp;amp; C) based on skating level.
 
