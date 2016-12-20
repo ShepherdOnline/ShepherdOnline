@@ -15,3 +15,8 @@ tags: [ ]
 categories:
   - Community
 ---
+Here are photos from this year's Shepherd Chamber of Commerce Holiday party.
+
+Photos by Mary Jo Johnson-Gibbons
+
+&nbsp;
