@@ -4,13 +4,16 @@ post_title: >
   Shepherd Chamber of Commerce Holiday
   Party
 author: Jon Morgan
-post_date: 2016-12-20 15:22:07
+post_date: 2016-12-20 15:51:01
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2232&preview=true&preview_id=2232'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/shepherd-chamber-of-commerce-holiday-party/
+published: true
 wide_assets:
   - ""
+custom_sidebar:
+  - none
 tags: [ ]
 categories:
   - Community
