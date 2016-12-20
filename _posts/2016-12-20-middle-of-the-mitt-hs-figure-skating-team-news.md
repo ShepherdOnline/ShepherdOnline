@@ -4,7 +4,7 @@ post_title: >
   Middle of the Mitt HS Figure Skating
   Team News
 author: Jon Morgan
-post_date: 2016-12-19 21:54:03
+post_date: 2016-12-20 03:36:33
 post_excerpt: ""
 layout: post
 permalink: >
