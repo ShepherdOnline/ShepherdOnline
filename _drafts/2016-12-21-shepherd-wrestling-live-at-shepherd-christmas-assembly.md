@@ -1,6 +1,8 @@
 ---
 ID: 2347
-post_title: ""
+post_title: >
+  Shepherd Wrestling LIVE at Shepherd
+  Christmas Assembly
 author: Jon Morgan
 post_date: 2016-12-21 14:54:16
 post_excerpt: ""
