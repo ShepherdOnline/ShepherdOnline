@@ -1,7 +1,9 @@
 
 ---
 post_title: 'Students learn about coding, graphic, and game design as a part of computer advisory class at Shepherd Middle School'
+
 layout: post
+
 published: false
 
 ---
