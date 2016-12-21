@@ -1,6 +1,8 @@
 ---
 ID: 2289
-post_title: ""
+post_title: >
+  Shepherd High School student recognized
+  for random acts of Kindness
 author: Jon Morgan
 post_date: 2016-12-20 19:16:42
 post_excerpt: ""
@@ -13,11 +15,8 @@ tags: [ ]
 categories:
   - Community
 ---
-#
-<div data-key="139"></div>
-<div data-key="145"><span class="prism-token token  title important punctuation ">##</span><span class="prism-token token  title important"> From: Jay Gross</span></div>
-<div data-key="147"></div>
-<div data-key="171">A young man...</div>
+<span class="prism-token token  title important punctuation ">##</span><span class="prism-token token  title important"> From: Jay Gross</span>
+<div data-key="147">A young man...</div>
 <div data-key="173"></div>
 <div data-key="175">A very special young man went around and put notes on each high school locker yesterday...</div>
 <div data-key="177"></div>
