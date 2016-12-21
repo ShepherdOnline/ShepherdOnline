@@ -4,7 +4,7 @@ title: 'Students learn about coding, graphic, and game design as a part of compu
 
 layout: post
 
-published: false
+published: true
 
 ---
 
