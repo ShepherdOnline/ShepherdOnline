@@ -2,16 +2,23 @@
 ID: 2355
 post_title: Tips for Facebook Live Video
 author: Jon Morgan
-post_date: 2016-12-21 15:56:49
+post_date: 2016-12-21 16:21:06
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2355&preview=true&preview_id=2355'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/tips-for-facebook-live-video/
+published: true
 wide_assets:
   - ""
+custom_sidebar:
+  - none
+top_term:
+  - "48"
 tags: [ ]
 categories:
   - Community
+  - News
+  - Technology
 ---
 Like many other things that have been unleashed onto the Internet in the past, Facebook Live Video is a feature that is good when used well, and bad when it’s not. I’ve seen it used in several different ways, and have also been experimenting with it for a little bit.
 
@@ -31,4 +38,4 @@ As you’re live streaming your video it is possible for your audience to post a
 
 <em>Do you agree or disagree with these tips? Do you have other suggestions that you’d like to share? Send them to <a href="mailto:info@shepherdhistory.org">info@shepherdhistory.org</a>. Or use the link below to respond to the google doc version of this article.</em>
 
-<a href="https://docs.google.com/document/d/1NMlf-Edy3FfVk1PFcC3zQZ_WkTyyoTaNlw3txrKGX48/edit?usp=sharing">View as Google Doc</a>
+| <a href="https://docs.google.com/document/d/1NMlf-Edy3FfVk1PFcC3zQZ_WkTyyoTaNlw3txrKGX48/edit?usp=sharing">View as Google Doc</a> |
