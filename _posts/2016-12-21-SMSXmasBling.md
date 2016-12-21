@@ -1,10 +1,7 @@
 ---
 title: SMSXmasBling
 layout: post
-author: shepherdonlinehq
-permalink: /smsxmasbling/
-source-id: 16kErQRtfRlpUjKIX1qjacnaSxjvs4K9kkCRVCp1ZT58
-published: true
+published: false
 ---
 ## Shepherd Middle School celebrated the last day of school before Christmas Break with "Christmas Bling"
 
