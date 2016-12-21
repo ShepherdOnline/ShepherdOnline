@@ -1,16 +1,9 @@
----
-title: TechnologyAdvisory
-layout: post
-author: shepherdonlinehq
-permalink: /technologyadvisory/
-source-id: 1nLhWD-o9BTee2MxpFmjM5m0bPLO03ncTqH1ZP9e6P2s
-published: true
+
 ---
 post_title: 'Students learn about coding, graphic, and game design as a part of computer advisory class at Shepherd Middle School'
-
 layout: post
-
 published: false
+---
 
 # Students learn about coding, graphic, and game design as a part of computer advisory class at Shepherd Middle School
 
