@@ -1,12 +1,10 @@
 ---
-title: TechnologyAdvisory
+
+post_title: 'Students learn about coding, graphic, and game design as a part of computer advisory class at Shepherd Middle School'
 layout: post
-author: shepherdonlinehq
-permalink: /technologyadvisory/
-source-id: 1nLhWD-o9BTee2MxpFmjM5m0bPLO03ncTqH1ZP9e6P2s
-published: true
+published: false
+
 ---
-# Students learn about coding, graphic, and game design as a part of computer advisory class at Shepherd Middle School
 
 Students at Shepherd Middle School are taking part in an advisory experience that allows them to explore various computer coding, video game, and graphic design tools. Students have a list of websites from which to choose, and they use these to decide on projects that will allow them to learn about, discover or create something new each day!
 
@@ -23,4 +21,3 @@ Alivia is also using her advisory time to develop characters to be used in the g
 Their advisory teacher Kristi Bush is extremely excited about the direction that their project is taking. "These students are far surpassing anything I could teach them, so I simply work as a resource when I can. I provided some links to get them started. They used these as a launch pad for some amazing projects that will no doubt contribute to future career success as well."
 
 The students seem to agree "I use these things to make a game," said Alivia, “and then I will probably become a computer programmer in the future.”
-
