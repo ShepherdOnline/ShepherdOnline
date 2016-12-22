@@ -13,4 +13,4 @@ tags: [ ]
 categories:
   - Community
 ---
-Channel 25 News ran a story covering the anonymous
+Channel 25 News ran a story covering the anonymous donations that have been given to Village of Shepherd Police Chief Luke Sawyer. <a href="http://nbc25news.com/news/local/secret-santas-give-back-to-families-in-the-village-of-shepherd">You can read the story and watch the original video here.</a>
