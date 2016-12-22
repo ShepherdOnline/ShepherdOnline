@@ -9,11 +9,11 @@ permalink: >
   http://www.shepherdhistory.org/blog/tips-for-facebook-live-video/
 published: true
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 custom_sidebar:
-  - none
+  - 'a:1:{i:0;s:4:"none";}'
 top_term:
-  - "48"
+  - 'a:1:{i:0;s:2:"48";}'
 tags: [ ]
 categories:
   - Community
