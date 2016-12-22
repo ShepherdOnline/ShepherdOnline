@@ -15,4 +15,4 @@ categories:
 ---
 Here are photos of SMS students wearing holiday bling as a part of the last week before Christmas break and "Spirit Week."
 
-&nbsp;
+<img class="alignnone size-medium wp-image-2455" src="http://www.shepherdhistory.org/wp-content/uploads/2016/12/upload_12_21_2016_at_6_43_22_PM-1-336x597.png" alt="" width="336" height="597" />
