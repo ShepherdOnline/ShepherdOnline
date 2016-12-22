@@ -4,11 +4,12 @@ post_title: >
   Photos from Sixth Grade Christmas Movie
   Night
 author: Jon Morgan
-post_date: 2016-12-21 22:26:11
+post_date: 2016-12-21 22:37:58
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2466&preview=true&preview_id=2466'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/blog/photos-from-sixth-grade-christmas-movie-night/
+published: true
 wide_assets:
   - ""
 featured_media:
@@ -27,9 +28,14 @@ featured_media:
     <td class='field'><input id="attachments[2469][navis_media_can_distribute]" name="attachments[2469][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     </tr>
     </table>";s:4:"meta";s:0:"";}}}
+custom_sidebar:
+  - none
 tags: [ ]
 categories:
   - Community
+  - Education
+  - News
+  - Shepherd Middle School
 ---
 Sixth graders attended a Christmas Movie Night this week hosted by the WEB Leaders.
 
