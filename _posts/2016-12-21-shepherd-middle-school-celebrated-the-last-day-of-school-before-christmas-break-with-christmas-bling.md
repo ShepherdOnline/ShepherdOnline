@@ -31,6 +31,9 @@ custom_sidebar:
 tags: [ ]
 categories:
   - Community
+  - Education
+  - News
+  - Shepherd Middle School
 ---
 Here are photos of SMS students wearing holiday bling as a part of the last week before Christmas break and "Spirit Week."
 
