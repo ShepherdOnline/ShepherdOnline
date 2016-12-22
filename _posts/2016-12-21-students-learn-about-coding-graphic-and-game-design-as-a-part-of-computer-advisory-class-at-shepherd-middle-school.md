@@ -36,6 +36,10 @@ top_term:
 tags: [ ]
 categories:
   - Community
+  - Education
+  - News
+  - Shepherd Middle School
+  - Technology
 ---
 Students at Shepherd Middle School are taking part in an advisory experience that allows them to explore various computer coding, video game, and graphic design tools. Students have a list of websites from which to choose, and they use these to decide on projects that will allow them to learn about, discover or create something new each day!
 
