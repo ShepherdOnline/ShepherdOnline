@@ -15,14 +15,14 @@ categories:
 ---
 Here is a list of upcoming Shepherd Community Library events:
 
-A Blizzard of Books - Adult Winter Reading Program
+<strong>A Blizzard of Books - Adult Winter Reading Program</strong>
 1/3/2017  2/28/2017
 
 All Branches.
 
 Read a good book, or a few, to get registered to win. Participants will get one entry for each book read during the program. Grand prize will be a gift certificate for a night on the town. Grand prize drawing to take place at the end of the program. The more you read the better your chances to win!
 
-Teen Tuesday - Will it Waffle?
+<strong>Teen Tuesday - Will it Waffle?</strong>
 1/17/2017
 
 6:00 PM - 7:30 PM
