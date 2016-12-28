@@ -61,4 +61,4 @@ Tales &amp; Tunes is a developmentally appropriate, rich language and musical en
 3:30 PM - 4:30 PM
 
 Join us for Create, Make and Take Crafts. Shepherd Community Library invites children of all ages to come to the library to make crafts. The library will provide all the materials and directions to create your crafts. You only need to bring your creativity.
-| Edit Document |
+| <a href="https://docs.google.com/document/d/1prqypIBZfF9tEQSRsQUgwi7lNS3Pt-2Bj7dlUgk2EYA/edit?usp=sharing">Edit Document</a> |
