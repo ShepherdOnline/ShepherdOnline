@@ -12,6 +12,7 @@ wide_assets:
 tags: [ ]
 categories:
   - Community
+  - Organizations
 ---
 Here is a list of upcoming Shepherd Community Library events:
 
@@ -31,14 +32,14 @@ Registration is required.
 
 Have you ever wondered if you could make pizza in a waffle iron? How about s'mores? Join us to see what kind of tasty treats we can waffle!
 
-Teen Tuesday - 14th Annual Skip the Romance and go Straight for the Chocolate
+<strong>Teen Tuesday - 14th Annual Skip the Romance and go Straight for the Chocolate</strong>
 2/21/2017  6:00 PM - 7:30 PM
 
 Registration is required.
 
 Chocolate, chocolate and more chocolate! Need we say more? Well, there will be fun games to play, too.
 
-CRDL LEGO Guessing
+<strong>CRDL LEGO Guessing</strong>
 2/1/2017  2/28/2017
 
 All Branches
@@ -47,14 +48,14 @@ Make your guess at how many LEGO bricks are in the display jar and you could win
 
 The following ongoing programs take place inside the Shepherd Community Library Every Wednesday (unless otherwise noted):
 
-Tales &amp; Tunes
+<strong>Tales &amp; Tunes</strong>
 10:00 AM - 10:30 AM
 
 For children up to 5 years old.
 
 Tales &amp; Tunes is a developmentally appropriate, rich language and musical environment where all children can develop a disposition toward becoming life-long readers while developing an appreciation for music! Parents, caregivers and children will interact with and respond to the best in children’s literature through musical play. Through engaged, adult participation, our goal is to immerse children in a rich environment filled with the joy of story, music and movement.
 
-Create, Make &amp; Take Crafts
+<strong>Create, Make &amp; Take Crafts</strong>
 2/1/2017
 
 3:30 PM - 4:30 PM
