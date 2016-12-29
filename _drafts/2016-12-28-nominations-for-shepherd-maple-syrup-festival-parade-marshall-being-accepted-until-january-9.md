@@ -18,4 +18,4 @@ tags: [ ]
 categories:
   - Community
 ---
-Members of the Shepherd community are invited to submit their nominations for the Shepherd
+Members of the Shepherd community are invited to submit their nominations for the 2017 Shepherd Maple Syrup Festival parade marshal until January 9.
