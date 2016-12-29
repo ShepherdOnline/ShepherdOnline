@@ -18,4 +18,4 @@ tags: [ ]
 categories:
   - Community
 ---
-The Shepherd Maple Syrup Festival committee is accepting nominations for the 2017 Shepherd Ma
+The Shepherd Maple Syrup Festival committee is accepting nominations from the community for parade marshall until January 9.
