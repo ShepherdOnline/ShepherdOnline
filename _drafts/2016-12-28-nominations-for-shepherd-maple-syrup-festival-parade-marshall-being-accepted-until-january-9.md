@@ -18,4 +18,4 @@ tags: [ ]
 categories:
   - Community
 ---
-The Shepherd M
+The Shepherd Maple Syrup Festival committee is accepting nominations for the 2017 Shepherd Ma
