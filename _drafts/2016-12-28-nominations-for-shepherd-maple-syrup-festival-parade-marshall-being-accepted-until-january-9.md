@@ -18,4 +18,4 @@ tags: [ ]
 categories:
   - Community
 ---
-Members of the Shepherd community are invited to submit their nominations for the 2017 Shepherd Maple Syrup Festival parade marshal until January 9. For more information, contact Pete Alexander at
+Members of the Shepherd community are invited to submit their nominations for the 2017 Shepherd Maple Syrup Festival parade marshal until January 9. For more information, contact Pete Alexander by phone (989) 828-5422 or via email at pete.alexander@shepherdmaplesyrupfest.org.
